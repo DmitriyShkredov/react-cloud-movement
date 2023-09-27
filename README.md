@@ -2,9 +2,9 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-cloud-movement/
 
-#### `Youtube:` (Бесконечная анимация элементов в React JS)[https://youtube.com/shorts/sZCCfXVtJQc]
+#### `Youtube:` [Бесконечная анимация элементов в React JS](https://youtube.com/shorts/sZCCfXVtJQc)
 
-#### `VK Video:` (Бесконечная анимация элементов в React JS)[https://vk.com/video/@tipichnyjvebrazrabotchik?z=video-222570561_456239042%2Fclub222570561%2Fpl_-222570561_-2]
+#### `VK Video:` [Бесконечная анимация элементов в React JS](https://vk.com/video/@tipichnyjvebrazrabotchik?z=video-222570561_456239042%2Fclub222570561%2Fpl_-222570561_-2)
 
 ---
 
