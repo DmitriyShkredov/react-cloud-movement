@@ -1,5 +1,29 @@
 .App {
+  position: relative;
   width: 100%;
   min-height: 100vh;
   background-color: #1e50b4;
+  overflow: hidden;
+}
+
+img {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: auto;
+  transform: translateX(100vw);
+}
+
+.img-1 {
+  top: 10px;
+}
+
+.img-2 {
+  top: 88px;
+}
+
+.img-3 {
+  top: 172px;
 }
