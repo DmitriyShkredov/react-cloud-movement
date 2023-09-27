@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-cloud-movement/static/css/main.43aadc12.css",
+    "main.js": "/react-cloud-movement/static/js/main.03fd516b.js",
+    "static/media/cloud-1.png": "/react-cloud-movement/static/media/cloud-1.8650a0c3b864f8e923f9.png",
+    "static/media/cloud-3.png": "/react-cloud-movement/static/media/cloud-3.43ace67efe3c0f583355.png",
+    "static/media/cloud-2.png": "/react-cloud-movement/static/media/cloud-2.b8e986251e6c68116cf3.png",
+    "index.html": "/react-cloud-movement/index.html",
+    "main.43aadc12.css.map": "/react-cloud-movement/static/css/main.43aadc12.css.map",
+    "main.03fd516b.js.map": "/react-cloud-movement/static/js/main.03fd516b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43aadc12.css",
+    "static/js/main.03fd516b.js"
+  ]
+}
