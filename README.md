@@ -2,7 +2,7 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-cloud-movement/
 
-#### `Youtube:` (Как сделать бесконечную анимацию элементов в React JS #shorts)[https://youtube.com/shorts/sZCCfXVtJQc]
+#### `Youtube:` (Как сделать бесконечную анимацию элементов в React JS)[https://youtube.com/shorts/sZCCfXVtJQc]
 
 ---
 
